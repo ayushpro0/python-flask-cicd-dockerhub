@@ -1,4 +1,4 @@
-name: CI/CD - Python Docker
+name: CI/CD - Python Dockers
 
 on:
   push:
